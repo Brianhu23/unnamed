@@ -1,0 +1,1 @@
+{"codes_info": [{"code_uuid": "5cd1d4de-465c-481d-83af-8ab12d07b95a", "stdin_name": "aiida.in", "stdout_name": "aiida.out", "cmdline_params": ["/bin/bash"]}], "retrieve_list": ["aiida.out", "_scheduler-stdout.txt", "_scheduler-stderr.txt"], "uuid": "ce6e0a27-ee73-4603-8b09-2a345beb5dfe"}
